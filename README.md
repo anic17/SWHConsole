@@ -1,4 +1,3 @@
-# SWH-Website
-Scripting Windows Host Website
+# SWH Website
 
-Download here Scripting Windows Host Console
+This repository is for hosting Scripting Windows Host Webpage
